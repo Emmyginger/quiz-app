@@ -1,4 +1,4 @@
-// Simple confetti party effect
+
 window.confetti = {
     fire: function () {
         // Simple confetti animation
