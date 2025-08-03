@@ -29,7 +29,7 @@ function renderRules() {
     `;
 }
 function exitQuiz() {
-    app.innerHTML = `<h2>Quiz App</h2><p>Thank you! You have exited the quiz.</p>`;
+    app.innerHTML = `<h2>Quiz App</h2><p>Thank you! You have exited the quiz.</p> <br/> <button class="btn" onclick="startQuiz()">Start Quiz</button>`;
 }
 function startQuiz() {
     quizState.currentSection = 0;
