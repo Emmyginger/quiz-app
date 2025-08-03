@@ -91,7 +91,7 @@ const QUIZ_QUESTIONS = [
 },
 {
     section: "HTML",
-    question: "What is the purpose of the <title> tag in HTML?",
+    question: "What is the purpose of the title tag in HTML?",
     options: [
         "Defines a table caption",
         "Defines a title for the browser tab",
@@ -135,7 +135,7 @@ const QUIZ_QUESTIONS = [
 },
 {
     section: "HTML",
-    question: "What is the purpose of the <form> element?",
+    question: "What is the purpose of the form element?",
     options: [
         "To insert an image gallery",
         "To create interactive forms for user input",
@@ -435,7 +435,7 @@ const QUIZ_QUESTIONS = [
 },
 {
     section: "CSS",
-    question: "Which selector will select only <p> elements that are direct children of a <div>?",
+    question: "Which selector will select only p elements that are direct children of a div?",
     options: [
         "div p",
         "div > p",
