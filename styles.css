@@ -8,6 +8,8 @@ body {
 #home-btn{
     text-decoration: none;
     margin-left: 10px;
+    color: whitesmoke;
+    font-weight: 400;
 }
 #app {
     max-width: 600px;

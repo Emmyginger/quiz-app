@@ -20,7 +20,6 @@ function renderRules() {
     <ol>
         <li>Total Questions: <b>60</b> (20 HTML, 20 CSS, 20 JavaScript)</li>
         <li>Each section (HTML, CSS, JavaScript) has <b>5 minutes</b> timer, after which you move to next section automatically.</li>
-        <li>Answer each question by selecting the option. Immediate feedback provided!</li>
         <li>Green Pass <span class="icon-pass">&#10003;</span> for correct, Red Fail <span class="icon-fail">&#10007;</span> for incorrect (with the correct answer displayed).</li>
         <li>Passing requires a score of at least <b>65%</b>.</li>
     </ol>
